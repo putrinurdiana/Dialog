@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <array name="Country">
+    <item>Indonesia</item>
+    <item>Jepang</item>
+    <item>Korea</item>
+    <item>Amerika</item>
+    <item>Inggris</item>
+    <item>Swiss</item>
+    <item>Paris</item>
+    </array>
+</resources>
